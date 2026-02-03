@@ -35,7 +35,4 @@ Make sure you have the following installed:
 - Microsoft Edge browser
 - Edge WebDriver (same version as your browser)
 
-Install required Python packages:
 
-```bash
-pip install selenium
